@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code.iml" filepath="$PROJECT_DIR$/.idea/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-rest-service-main/complete/rest-service-complete.iml" filepath="$PROJECT_DIR$/gs-rest-service-main/complete/rest-service-complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-rest-service-main/initial/rest-service-initial.iml" filepath="$PROJECT_DIR$/gs-rest-service-main/initial/rest-service-initial.iml" />
+    </modules>
+  </component>
+</project>
